@@ -1,4 +1,4 @@
-# Assignment 1
+# Ques 1
 
 ## Instructions to run client server chat program
 
